@@ -1,1 +1,11 @@
-{}
+{
+ "title": "Filter",
+ "apply": "Apply",
+ "clearFilter": "Clear all parameters",
+ "openFilter": "Filers",
+ "acceptModal": {
+	"title": "Do you want to apply new filter",
+	"oldFilter": "Use old filter",
+	"newFilter": "Apply new filter"
+ }
+}
