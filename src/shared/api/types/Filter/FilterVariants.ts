@@ -5,3 +5,4 @@ export interface FilterChoose extends FilterBase {
 	allowAll?: boolean
 	options: FilterChooseOption[]
 }
+

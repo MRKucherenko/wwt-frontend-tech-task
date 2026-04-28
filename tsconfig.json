@@ -5,15 +5,13 @@
 		"lib": ["ESNext", "DOM", "DOM.Iterable"],
 		"module": "ESNext",
 		"skipLibCheck": true,
-		"baseUrl": ".",
-		/* Bundler mode */
 		"moduleResolution": "bundler",
 		"allowImportingTsExtensions": true,
 		"resolveJsonModule": true,
 		"isolatedModules": true,
 		"noEmit": true,
 		"jsx": "react-jsx",
-		"types": ["vite-plugin-svgr/client", "vitest/globals"],
+		"types": ["vitest/globals"],
 		"paths": {
 			"@/*": ["./src/*"]
 		},

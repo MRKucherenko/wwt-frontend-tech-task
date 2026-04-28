@@ -7,7 +7,6 @@ import svgr from 'vite-plugin-svgr'
 import tsconfigPaths from 'vite-tsconfig-paths'
 
 export default defineConfig(() => ({
-	root: '.',
 
 	server: {
 		port: 3000,
