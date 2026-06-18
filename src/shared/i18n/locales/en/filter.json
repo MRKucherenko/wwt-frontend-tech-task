@@ -1,1 +1,12 @@
-{}
+{
+	"open": "Open",
+	"title": "Filter",
+	"close": "Close",
+	"loading": "Loading…",
+	"error": "Error",
+	"apply": "Apply",
+	"confirmText": "Do you want to apply new filter",
+	"useOld": "Use old filter",
+	"applyNew": "Apply new filter",
+	"clearAll": "Clear all parameters"
+}
